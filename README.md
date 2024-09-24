@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **kumarprince51663@gmail.com**
 
